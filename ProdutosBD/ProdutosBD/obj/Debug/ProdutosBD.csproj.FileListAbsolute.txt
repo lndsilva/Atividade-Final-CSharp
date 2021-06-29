@@ -1,0 +1,49 @@
+L:\SENAC_2017\TI87\Sistemas\ProdutosBD\ProdutosBD\bin\Debug\ProdutosBD.exe.config
+L:\SENAC_2017\TI87\Sistemas\ProdutosBD\ProdutosBD\bin\Debug\ProdutosBD.exe
+L:\SENAC_2017\TI87\Sistemas\ProdutosBD\ProdutosBD\bin\Debug\ProdutosBD.pdb
+L:\SENAC_2017\TI87\Sistemas\ProdutosBD\ProdutosBD\bin\Debug\MySql.Data.dll
+L:\SENAC_2017\TI87\Sistemas\ProdutosBD\ProdutosBD\bin\Debug\MySql.Data.xml
+L:\SENAC_2017\TI87\Sistemas\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.csprojResolveAssemblyReference.cache
+L:\SENAC_2017\TI87\Sistemas\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.Form1.resources
+L:\SENAC_2017\TI87\Sistemas\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.Properties.Resources.resources
+L:\SENAC_2017\TI87\Sistemas\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.csproj.GenerateResource.Cache
+L:\SENAC_2017\TI87\Sistemas\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.exe
+L:\SENAC_2017\TI87\Sistemas\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.pdb
+C:\Users\laercio.nsilva\Documents\ProdutosBD\ProdutosBD\bin\Debug\ProdutosBD.exe.config
+C:\Users\laercio.nsilva\Documents\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.exe
+C:\Users\laercio.nsilva\Documents\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.pdb
+C:\Users\laercio.nsilva\Documents\ProdutosBD\ProdutosBD\bin\Debug\ProdutosBD.exe
+C:\Users\laercio.nsilva\Documents\ProdutosBD\ProdutosBD\bin\Debug\ProdutosBD.pdb
+C:\Users\laercio.nsilva\Documents\ProdutosBD\ProdutosBD\bin\Debug\MySql.Data.dll
+C:\Users\laercio.nsilva\Documents\ProdutosBD\ProdutosBD\bin\Debug\MySql.Data.xml
+C:\Users\laercio.nsilva\Documents\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.csprojResolveAssemblyReference.cache
+C:\Users\laercio.nsilva\Documents\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.frmGerenciarProdutos.resources
+C:\Users\laercio.nsilva\Documents\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.Properties.Resources.resources
+C:\Users\laercio.nsilva\Documents\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.csproj.GenerateResource.Cache
+C:\Users\laercio.nsilva\Documents\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.frmConectando.resources
+C:\Users\Laercio-Note\Documents\Sistemas\ProdutosBD\ProdutosBD\bin\Debug\ProdutosBD.exe.config
+C:\Users\Laercio-Note\Documents\Sistemas\ProdutosBD\ProdutosBD\bin\Debug\ProdutosBD.exe
+C:\Users\Laercio-Note\Documents\Sistemas\ProdutosBD\ProdutosBD\bin\Debug\ProdutosBD.pdb
+C:\Users\Laercio-Note\Documents\Sistemas\ProdutosBD\ProdutosBD\bin\Debug\MySql.Data.xml
+C:\Users\Laercio-Note\Documents\Sistemas\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.csprojAssemblyReference.cache
+C:\Users\Laercio-Note\Documents\Sistemas\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.frmConectando.resources
+C:\Users\Laercio-Note\Documents\Sistemas\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.frmGerenciarProdutos.resources
+C:\Users\Laercio-Note\Documents\Sistemas\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.Properties.Resources.resources
+C:\Users\Laercio-Note\Documents\Sistemas\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.csproj.GenerateResource.cache
+C:\Users\Laercio-Note\Documents\Sistemas\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.csproj.CoreCompileInputs.cache
+C:\Users\Laercio-Note\Documents\Sistemas\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.csproj.CopyComplete
+C:\Users\Laercio-Note\Documents\Sistemas\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.exe
+C:\Users\Laercio-Note\Documents\Sistemas\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.pdb
+D:\BACKUP_NOTE_LAERCIO_14112020\CAPACITAÇÃO_CETEC_2021\Programação C# com MySQL\Atividade_Final\ProdutosBD\ProdutosBD\bin\Debug\ProdutosBD.exe.config
+D:\BACKUP_NOTE_LAERCIO_14112020\CAPACITAÇÃO_CETEC_2021\Programação C# com MySQL\Atividade_Final\ProdutosBD\ProdutosBD\bin\Debug\ProdutosBD.exe
+D:\BACKUP_NOTE_LAERCIO_14112020\CAPACITAÇÃO_CETEC_2021\Programação C# com MySQL\Atividade_Final\ProdutosBD\ProdutosBD\bin\Debug\ProdutosBD.pdb
+D:\BACKUP_NOTE_LAERCIO_14112020\CAPACITAÇÃO_CETEC_2021\Programação C# com MySQL\Atividade_Final\ProdutosBD\ProdutosBD\bin\Debug\MySql.Data.xml
+D:\BACKUP_NOTE_LAERCIO_14112020\CAPACITAÇÃO_CETEC_2021\Programação C# com MySQL\Atividade_Final\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.csprojAssemblyReference.cache
+D:\BACKUP_NOTE_LAERCIO_14112020\CAPACITAÇÃO_CETEC_2021\Programação C# com MySQL\Atividade_Final\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.frmConectando.resources
+D:\BACKUP_NOTE_LAERCIO_14112020\CAPACITAÇÃO_CETEC_2021\Programação C# com MySQL\Atividade_Final\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.frmGerenciarProdutos.resources
+D:\BACKUP_NOTE_LAERCIO_14112020\CAPACITAÇÃO_CETEC_2021\Programação C# com MySQL\Atividade_Final\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.Properties.Resources.resources
+D:\BACKUP_NOTE_LAERCIO_14112020\CAPACITAÇÃO_CETEC_2021\Programação C# com MySQL\Atividade_Final\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.csproj.GenerateResource.cache
+D:\BACKUP_NOTE_LAERCIO_14112020\CAPACITAÇÃO_CETEC_2021\Programação C# com MySQL\Atividade_Final\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.csproj.CoreCompileInputs.cache
+D:\BACKUP_NOTE_LAERCIO_14112020\CAPACITAÇÃO_CETEC_2021\Programação C# com MySQL\Atividade_Final\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.csproj.CopyComplete
+D:\BACKUP_NOTE_LAERCIO_14112020\CAPACITAÇÃO_CETEC_2021\Programação C# com MySQL\Atividade_Final\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.exe
+D:\BACKUP_NOTE_LAERCIO_14112020\CAPACITAÇÃO_CETEC_2021\Programação C# com MySQL\Atividade_Final\ProdutosBD\ProdutosBD\obj\Debug\ProdutosBD.pdb
